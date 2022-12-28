@@ -11,7 +11,7 @@
 
 **Example:** Google
 
-	python setup.py car 200 -e google -t 8 -high_reselotion
+	python setup.py "iranian cars" 200 -e google -t 8 -high_reselotion
 
 
 **Example:** Bing
